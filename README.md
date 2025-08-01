@@ -6,7 +6,8 @@ A simple Python CLI tool to scan your Linux system for:
 
 ## 🚀 Usage
 ```bash
-git clone https://github.com/yourusername/local-vuln-checker.git
+git clone https://github.com/Aradhanasingh00
+/local-vuln-checker.git
 cd local-vuln-checker
 sudo python3 checker.py
 ## Local terminal
